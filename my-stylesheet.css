@@ -1,0 +1,41 @@
+#mainform{
+  width:220px;
+	float:right;
+	background-color: #Fff;
+	display:none;
+	bottom:0px;
+	right:0px;
+	position:fixed;
+	}
+.signcls{
+		background-color: #F4EAEA;
+    height: 39px;
+  font-weight:bold;
+    padding-left: 11px;
+    padding-top: 18px;
+	color:#ab8686;
+	}	
+.txtbox{
+	border-radius:5px;
+	border:#F9F;
+	margin-left:10px;
+	margin-top:5px;
+	width:190px;
+	}
+.newsget{
+	height:38px;
+	padding-top:10px;
+	padding-left:10px;
+	color:#ab8686;
+	
+	}		
+.sbmtcls{
+	float:right;
+	margin-top:10px;
+	margin-right:10px;
+	margin-bottom:10px;
+	}	
+.cncle{
+	float:right;
+	color:#ab8686;
+	}	
